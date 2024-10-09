@@ -16,6 +16,7 @@
     "": "file:",
     "@azure/functions": "^4.0.0",
     "joi": "^17.13.3",
+    "pg": "^8.13.0",
     "sequelize": "^6.37.4"
   },
   "devDependencies": {
