@@ -1,2 +1,2 @@
 # generic-node-crud
-Generic node CRUD
+Generic node CRUD for quick dev
